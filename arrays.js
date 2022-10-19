@@ -10,3 +10,8 @@ sneakerPrices.pop(1)
 // will remove the last element of the array
 studiesTooMuch.unshift(false)
 // will add another element to the beginning of the array and change the array
+console.log(friends[0])
+
+console.log(sneakerPrices[3])
+
+console.log(studiesTooMuch[1])
